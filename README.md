@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0485-max-consecutive-ones](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1480-running-sum-of-1d-array](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |

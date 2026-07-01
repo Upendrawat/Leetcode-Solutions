@@ -5,11 +5,8 @@ class Solution {
         }
         int start = 1;
         for(int i=1; i<nums.length; i++){
-            if(nums[i] == nums[i-1]){
-                continue;
-            }
-            else{
-                nums[start] = nums[i];
+            if(nums[i] != nums[i-1]){
+                 nums[start] = nums[i];
                 start++;
             }
         }

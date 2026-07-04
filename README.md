@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0905-sort-array-by-parity](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0905-sort-array-by-parity](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0905-sort-array-by-parity](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

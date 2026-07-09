@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |

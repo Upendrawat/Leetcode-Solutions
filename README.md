@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0844-backspace-string-compare](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0844-backspace-string-compare](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->

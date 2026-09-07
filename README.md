@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -184,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->

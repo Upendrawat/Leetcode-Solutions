@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Upendrawat/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 ## Union-Find
 |  |
